@@ -9,12 +9,12 @@ Here, I've added some URI problems solution in C#. Before seeing the solution ma
   - 1002-Area of a circle
   - 1003-Simple Sum
   - 1004-Simple Product
-- 1005-Average 1
-- 1006-Average 2
-- 1007-Difference
-- 1008-Salary
-- 1009-Salary With Bonus
-- 1010-Simple Calculate
+  - 1005-Average 1
+  - 1006-Average 2
+  - 1007-Difference
+  - 1008-Salary
+  - 1009-Salary With Bonus
+  - 1010-Simple Calculate
 
 
 
