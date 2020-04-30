@@ -5,10 +5,10 @@ Here, I've added some URI problems solution in C#. Before seeing the solution ma
 
 ## Table of Contents
 - ### Beginner in C#
-- 1001-Extremely Basic
-- 1002-Area of a circle
-- 1003-Simple Sum
-- 1004-Simple Product
+  - 1001-Extremely Basic
+  - 1002-Area of a circle
+  - 1003-Simple Sum
+  - 1004-Simple Product
 - 1005-Average 1
 - 1006-Average 2
 - 1007-Difference
