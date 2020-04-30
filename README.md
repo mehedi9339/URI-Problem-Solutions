@@ -16,7 +16,7 @@ Here, I've added some URI problems solution in C#. Before seeing the solution ma
   - 1009-Salary With Bonus
   - 1010-Simple Calculate
 
-
+\
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
