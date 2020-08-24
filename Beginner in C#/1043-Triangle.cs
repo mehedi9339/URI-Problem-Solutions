@@ -28,3 +28,5 @@ namespace _1043_Triangle
         }
     }
 }
+//Mehedi Hasan
+//mehedihasan9339@gmail.com
