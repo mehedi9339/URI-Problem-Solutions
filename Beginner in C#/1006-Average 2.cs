@@ -17,3 +17,6 @@ namespace _1006_Average_2
         }
     }
 }
+
+//Mehedi Hasan
+//mehedihasan9339@gmail.com
