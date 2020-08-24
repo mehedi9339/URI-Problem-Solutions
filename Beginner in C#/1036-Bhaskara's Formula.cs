@@ -31,3 +31,5 @@ namespace _1036_Bhaskara_s_Formula
         }
     }
 }
+//Mehedi Hasan
+//mehedihasan9339@gmail.com
